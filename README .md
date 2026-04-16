@@ -3,20 +3,14 @@
 **Course:** Software Engineering – Web Development  
 **Assignment:** 3 – Advanced Functionality  
 **Student ID:** 202280980
-**Repository:** `id-name-assignment3`
 
 ---
 
 ## Project Description
 
-A personal portfolio website for Ghala Alqahtani, a Software Engineering student at KFUPM. This assignment builds on the foundations of Assignments 1 and 2, adding advanced JavaScript functionality, external API integrations, complex filtering logic, state management, and performance optimisations.
+This assignment builds on the foundations of Assignments 1 and 2, adding advanced JavaScript functionality, external API integrations, complex filtering logic, state management, and performance optimisations.
 
----
 
-## Live Demo
-
-> Deploy to GitHub Pages: **Settings → Pages → Deploy from `main` branch → `/ (root)`**  
-> URL will be: `https://<your-github-username>.github.io/id-name-assignment3/`
 
 ---
 
@@ -55,15 +49,12 @@ A personal portfolio website for Ghala Alqahtani, a Software Engineering student
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-github-username>/id-name-assignment3.git
+git clone https://github.com/ghalaq75/202280980-GhalaAlqahtani-assignment3.git
 
 # 2. Open in your browser
 #    Option A – double-click index.html
 #    Option B – use a local server (recommended to avoid CORS issues with images)
-npx serve .
-# or
-python3 -m http.server 8080
-# then open http://localhost:8080
+
 ```
 
 ### File structure
@@ -89,7 +80,6 @@ id-name-assignment3/
 └── .gitignore
 ```
 
-> **Note:** Replace `ghala-alqahtani` in `script.js` (line 3 of the GitHub section) with your actual GitHub username to display your real repositories.
 
 ---
 
