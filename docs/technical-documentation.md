@@ -2,7 +2,7 @@
 
 **Project:** Ghala Alqahtani Portfolio  
 **Assignment:** 3 – Advanced Functionality  
-**Tech Stack:** HTML5 · CSS3 (custom properties) · Vanilla JavaScript (ES2022)
+**Tech Stack:** HTML5 · CSS · JavaScript
 
 ---
 
@@ -59,15 +59,11 @@ id-name-assignment3/
 - Four fields validated simultaneously on submit (all errors shown at once).
 - On success: visitor's first name saved to `localStorage`; personalised "Thank you, [Name]!" message displayed.
 
-### 8. Site Visit Timer (NEW – A3)
-- `setInterval` increments every 1000 ms; displays `Xs` or `Xm Ys`.
-- `aria-live="polite"` for screen reader accessibility.
-
-### 9. Mobile Hamburger Navigation (NEW – A3)
+### 8. Mobile Hamburger Navigation (NEW – A3)
 - CSS class toggle shows/hides nav links on small screens.
 - `aria-expanded` updated; menu closes on any link click.
 
-### 10. Back-to-Top Button (NEW – A3)
+### 9. Back-to-Top Button (NEW – A3)
 - Fades in after 400 px scroll; smooth scrolls to top.
 
 ---
